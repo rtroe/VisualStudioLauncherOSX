@@ -1,11 +1,13 @@
 # Visual Studio Launcher OSX
 This Apple Script allows your to run multiple instances of Visual Studio in OSX at once. 
 
+![launcher dock](img/screenshots/dock.png)
+
 Essentially all the script does is call the following:
 
 `do shell script "open -n /Applications/Visual\\ Studio.app/"`
 
-![launcher dock](img/screenshots/dock.png)
+You can rework this for different applications if you want to (like Xamarin Studio!)
 
 # To Install
-Simply download the release (or clone the latest repo) and pop the 'Visual Studio Launcher.app' file into your Applications folder. You can then drag it into the dock bar.
+Download the release (or clone the latest repo). You'll need to extract the Visual Studio Launcher.zip file. Then simply pop the 'Visual Studio Launcher.app' file from there into your Applications folder. You can then drag it into the dock bar after that.
