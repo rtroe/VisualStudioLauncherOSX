@@ -10,4 +10,8 @@ Essentially all the script does is call the following:
 You can rework this for different applications if you want to (like Xamarin Studio!)
 
 # To Install
-Download the release (or clone the latest repo). You'll need to extract the Visual Studio Launcher.zip file. Then simply pop the 'Visual Studio Launcher.app' file from there into your Applications folder. You can then drag it into the dock bar after that.
+Download the [release](https://github.com/rtroe/VisualStudioLauncherOSX/releases) (or clone the latest repo). 
+
+You'll need to extract the download, then the Visual Studio Launcher.zip file inside of there to get the .app file. 
+
+Then simply pop the 'Visual Studio Launcher.app' file from there into your Applications folder. You can then drag it into the dock bar after that.
